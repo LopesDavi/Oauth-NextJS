@@ -1,6 +1,13 @@
+## Getting Started
+## Esse é um tutorial de como fiz para implementar o Oauth no NextJS
+## Utilizei a biblioteca - https://next-auth.js.org/
+## Meus contatos para dúvidas:
+## Email -  (developer.davii@gmail.com ) 
+## Instagram - (techdavilopes)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## RUN APP
 
 First, run the development server:
 
